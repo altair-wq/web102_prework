@@ -23,10 +23,11 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
+[GIF Format](https://imgur.com/tneB6a0.gif)
+[Google Drive Video](https://drive.google.com/file/d/16gnfZvvNnENqBK5RGcxS9MsZGDMoFMaa/view?usp=sharing)
 [WEB102 Project Demo - Altair Adilkhan](https://www.loom.com/share/549b8a51424047adb1d247eb4ddfca09?sid=885e585c-23b6-4541-af88-6df16fb99fc5)
-
 <!-- Replace this with whatever GIF tool you used! -->
-Video created with Loom  
+GIF created with Imgur  
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
